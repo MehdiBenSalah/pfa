@@ -4,7 +4,7 @@
   - dicom : https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial
   
 Nodule3D : 
-  - https://www.kaggle.com/rodenluo/crop-save-and-view-nodules-in-3d
+  -https://www.kaggle.com/rodenluo/crop-save-and-view-nodules-in-3d
   
 More about HU values : 
   -https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3362400/#:~:text=On%20delayed%20contrast%2Denhanced%20CT,range%2C%2036%E2%80%9392).
