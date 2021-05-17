@@ -2,6 +2,7 @@
 3Dvisualization: 
   - mhd : https://www.programmersought.com/article/95774764546/
   - dicom : https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial
+  
 Nodule3D : 
   - https://www.kaggle.com/rodenluo/crop-save-and-view-nodules-in-3d
   
